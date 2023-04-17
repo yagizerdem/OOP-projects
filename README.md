@@ -1,2 +1,2 @@
-# projects-in-lesson
+# OOP projects
 OOP projects
