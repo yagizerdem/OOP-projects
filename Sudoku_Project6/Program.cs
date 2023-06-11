@@ -173,7 +173,7 @@ namespace Sudoku
 									piece[i, j] = -1;
 								}
 							}
-							int random = rnd.Next(4, 4);
+							int random = rnd.Next(1, 8);
 							if (random == 1)
 							{
 								piece[0, 0] = rnd.Next(0, 2);
